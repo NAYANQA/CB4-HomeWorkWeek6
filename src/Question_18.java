@@ -14,7 +14,7 @@ public class Question_18 {
                 int totalMarks = Maths + English + Science;
 
                 // Displaying a magical marks card
-                System.out.println("------------ BE CREATIVE ------------");
+                System.out.println("------------ Gujarat University ------------");
                 System.out.println("Subject\t\t\tMarks Obtained");
                 System.out.println("-------------------------------------");
                 System.out.println("Maths\t\t         " + Maths);
