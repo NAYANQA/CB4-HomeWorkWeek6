@@ -16,6 +16,7 @@ public class Question_01 {
         System.out.println("tes ttest ets test etst ets test ets testssff f df d df df  etst ets tets tetst etst etst");
         System.out.println("tes ttest ets test etst ets test ets testssff f df d df df  etst ets tets tetst etst etst");
         System.out.println("tes ttest ets test etst ets test ets testssff");
+        System.out.println("tes ttest ets test etst ets test ets testssff");
         System.out.println("                                                                                         ");
 
         System.out.println("EDUCATION");
